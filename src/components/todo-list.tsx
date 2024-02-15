@@ -15,7 +15,7 @@ export async function TodoList() {
             <Package2Icon className="w-6 h-6" />
             <span className="sr-only">Toggle user menu</span>
           </Button>
-          <h1 className="text-lg font-semibold">Tasks</h1>
+          <h1 className="text-lg font-semibold">Taskss</h1>
         </div>
         <form className="flex-1">
           <div className="relative">
