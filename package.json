@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "docker": "docker-compose up"
+    "docker": "docker-compose up",
+    "db:generate": " prisma generate"
   },
   "dependencies": {
     "@prisma/client": "^5.10.2",
